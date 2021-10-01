@@ -1,0 +1,46 @@
+
+body{
+    background-image: url(ProjetoCSS_inicio/imagens/bg-3.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: right top;
+    
+}
+main{
+    margin: 30% 5% 2% 2%;
+    
+}
+.navHeader{
+    padding: 2% 0 0 70%;
+}
+.botao{
+    background-color: #999;
+    margin-top: 10px;
+    padding: 20px;
+    border-style: solid;
+    border-color: azure;
+}
+a{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 400%;
+    text-indent: 3%;
+    text-align: center;
+    color: azure;
+    padding: 100px 500px 200px 500px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: azure;
+    margin: 0px 550px 10px 550px; 
+    padding: 1%;
+    border-bottom: 100%;
+    border-bottom-style: solid;
+    border-bottom-color: azure;
+    background-color: #222;
+}
